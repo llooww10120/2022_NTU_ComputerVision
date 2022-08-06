@@ -1,0 +1,45 @@
+backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
+backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifacts/backports.functools_lru_cache_1618230623929/work
+certifi==2021.5.30
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+cyvlfeat==0.4.6
+decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
+entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1643888246732/work
+importlib-resources==5.4.0
+ipykernel @ file:///D:/bld/ipykernel_1620913140366/work/dist/ipykernel-5.5.5-py3-none-any.whl
+ipython @ file:///D:/bld/ipython_1609697945785/work
+ipython-genutils==0.2.0
+jedi @ file:///D:/bld/jedi_1605054785407/work
+joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
+jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1642858610849/work
+jupyter-core @ file:///D:/bld/jupyter_core_1631852848502/work
+kiwisolver @ file:///C:/ci/kiwisolver_1612282446297/work
+matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+nest-asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1648959695634/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603480701039/work
+olefile==0.46
+opencv-contrib-python==4.5.5.64
+opencv-python==4.5.5.64
+parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1595548966091/work
+pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
+Pillow @ file:///C:/ci/pillow_1615224175364/work
+prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1649130487073/work
+Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1641580240686/work
+pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pywin32==301
+pyzmq @ file:///D:/bld/pyzmq_1631793604214/work
+scikit-learn @ file:///C:/ci/scikit-learn_1614446902030/work
+scipy @ file:///C:/ci/scipy_1597675683670/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+tornado @ file:///C:/ci/tornado_1606942379977/work
+tqdm==4.64.0
+traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1631041982274/work
+wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1600965781394/work
+wincertstore==0.2
+zipp==3.6.0
